@@ -1,0 +1,26 @@
+{
+  "name": "Yukon Resort",
+  "short_name": "Yukon",
+  "description": "Yukon Resort: Five-star comfort meets unforgettable nights",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fdf6ef",
+  "theme_color": "#a8324c",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
